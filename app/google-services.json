@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118678445560",
+    "project_id": "amarg-stream",
+    "storage_bucket": "amarg-stream.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118678445560:android:c0a7f832df24b71acd0a0d",
+        "android_client_info": {
+          "package_name": "com.example.amargstream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB63nZXcTyPK7LIbwYq7O_aAVud_iUfyv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
